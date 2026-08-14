@@ -1,0 +1,278 @@
+PROMPT 1 — Blog Post Introduction: Artificial Intelligence in Education
+
+Act as a Senior Blog Post Writer.
+
+Write an engaging blog post on the topic "Impact of Artificial Intelligence in Education".
+
+Target audience: School students, college students, tech enthusiasts, and tech educators.
+
+The blog must:
+- Start with an introduction to AI.
+- Explain why AI is booming these days.
+- Explain how learners can learn AI.
+- Explain how learners can adopt AI in real life to make their work more efficient.
+- Be engaging rather than boring.
+- Use simple and easy-to-understand English.
+- Be approximately 150–200 words.
+
+Give only the blog post.
+
+
+PROMPT 2 — Cold Outreach Email for Company Offering SaaS Services
+
+Act as a Senior B2B Sales Engineer and Email Writer.
+
+Write a cold outreach email for a textile industry company that is using outdated software and conducting manual entries in its daily operations.
+
+The email should:
+- Start by highlighting the drawbacks of outdated software systems and manual data entry in daily textile industry operations.
+- Explain our software development and maintenance services.
+- Explain the benefits of our services.
+- Explain how our software can help maintain records and entries efficiently.
+- Explain how the solution can improve the efficiency of textile industry operations and maintenance.
+- Keep the email precise.
+- Use professional language.
+- Make it attractive to the client.
+- Do not make it look like spam.
+- Keep it between 100–150 words.
+- Follow a professional email format.
+
+Give a suitable subject line and email body.
+
+
+PROMPT 3 — Follow-up Email
+
+Act as a Professional Communication Specialist.
+
+Draft a follow-up email for a client where our company XYZ Pvt Ltd had a meeting with the client regarding their home painting requirements and then presented our services.
+
+The email should:
+- Start by mentioning that we had a meeting 3 days ago regarding their painting requirements.
+- Politely follow up regarding the services presented during the meeting.
+- Seek the client's decision or feedback.
+- Be professional and client-friendly.
+- Not look like spam.
+- Use professional words.
+- Be attractive and engaging.
+- Be a maximum of 100 words.
+- Follow a professional email format.
+
+Give a suitable subject line and email body.
+
+
+PROMPT 4 — YouTube Title + Description: Learn Python
+
+Act as a YouTube Content Strategist.
+
+Create YouTube titles and a description for a video about:
+
+Topic:
+"Python Programming for Beginners"
+
+Target audience:
+College students and people who are completely new to programming.
+
+Main points covered:
+- What Python is
+- Variables
+- Data types
+- Conditions
+- Loops
+- Functions
+- A simple Python project
+
+Requirements:
+- Generate 5 title options.
+- Make the titles clear and attention-grabbing.
+- Avoid misleading clickbait.
+- Include relevant keywords naturally.
+- Write a description of approximately 150 words.
+- Use simple English.
+- End with a call to action.
+
+Output format:
+
+Title 1:
+Title 2:
+Title 3:
+Title 4:
+Title 5:
+
+Description:
+
+
+PROMPT 5 — Newsletter Section: AI Trends
+
+Act as a Professional Newsletter Writer.
+
+Write one newsletter section about:
+
+Topic:
+"Important AI Trends for Students in 2026"
+
+Key information:
+AI coding assistants, generative AI, AI agents, retrieval-augmented generation (RAG), and AI-powered productivity tools are becoming increasingly important for students and developers.
+
+Target audience:
+College students interested in technology and careers in AI.
+
+Purpose:
+Help students understand which AI developments they should pay attention to.
+
+Requirements:
+- Create an engaging heading.
+- Explain the information clearly.
+- Use a friendly and professional tone.
+- Keep it concise.
+- Give practical advice to students.
+- End with a relevant call to action.
+- Maximum 200 words.
+
+
+PROMPT 6 — Ad Copy: AI Learning Course
+
+Act as an Expert Digital Advertising Copywriter.
+
+Create advertisement copy for:
+
+Product:
+3-Month Generative AI Development Course
+
+Target audience:
+College students and beginner programmers.
+
+Main benefit:
+Learn how to build practical Generative AI applications using Python and modern AI tools.
+
+Offer:
+Project-based learning with hands-on development.
+
+Desired action:
+Register for the course.
+
+Platform:
+Instagram and Facebook
+
+Requirements:
+- Create 5 variations.
+- Keep the copy short and persuasive.
+- Focus on student benefits.
+- Avoid unsupported claims.
+- Use a strong call to action.
+- Use simple and engaging language.
+- Include a short headline and advertisement body for each variation.
+
+
+PROMPT 7 — Article Summarization: Generative AI
+
+Act as an Expert Article Summarizer.
+
+Summarize the following article:
+
+"Generative AI is a type of artificial intelligence that can create new content such as text, images, audio, video, and code. Large language models are a major technology behind text-based generative AI. These models are trained on large amounts of data and can generate responses based on patterns learned during training. Generative AI is being used in education, software development, customer support, content creation, and many other fields. However, users should also consider issues such as inaccurate information, privacy, bias, and responsible use."
+
+Requirements:
+- Identify the main idea.
+- Extract the most important points.
+- Remove unnecessary details.
+- Do not add information that is not present in the article.
+- Use simple English.
+- Keep the summary below 80 words.
+
+Output format:
+
+Main Idea:
+
+Key Points:
+1.
+2.
+3.
+4.
+
+Summary:
+
+
+PROMPT 8 — Tone Rewriter
+
+Act as an Expert Content Editor.
+
+Rewrite the following text:
+
+"Dear Professor,
+
+I am writing to inform you that I will be unable to attend tomorrow's class due to a personal commitment. I kindly request you to grant me permission to be absent for the session. I will make sure to complete any missed work.
+
+Thank you for your understanding."
+
+Current tone:
+Formal
+
+Desired tone:
+Friendly and casual
+
+Target audience:
+A college professor
+
+Requirements:
+- Preserve the original meaning.
+- Do not add new information.
+- Change only the tone and writing style.
+- Keep the message respectful.
+- Use natural language.
+- Keep approximately the same length.
+
+Return only the rewritten version.
+
+
+PROMPT 9 — Instagram Caption: Product Promotion
+
+Act as a Professional Social Media Content Writer.
+
+Write an Instagram caption promoting a new product called "SmartStudy".
+
+Product information:
+SmartStudy is an AI-powered learning assistant that helps students summarize notes, generate practice questions, and understand difficult topics.
+
+Target audience:
+College students.
+
+The caption should:
+- Start with an attention-grabbing line.
+- Highlight the main benefits.
+- Use a friendly and energetic tone.
+- Be easy to understand.
+- Be approximately 100 words.
+- Include a call to action.
+- Include 5 relevant hashtags.
+- Use emojis appropriately.
+
+Give only the Instagram caption.
+
+
+PROMPT 10 — Story Generation: Kids
+
+Act as a Creative Children's Story Writer.
+
+Write a short story based on:
+
+Topic:
+A poor farmer who discovers a mysterious seed
+
+Genre:
+Moral story
+
+Target audience:
+Children aged 8–12.
+
+Requirements:
+- Use simple English.
+- Create an interesting beginning.
+- Include a problem and its solution.
+- Include a positive moral lesson.
+- Keep the story approximately 300 words.
+- Avoid complicated vocabulary.
+- Give the story a suitable title.
+- Give only the title and story.
+
+Moral lesson:
+Honesty and patience are more valuable than greed.
